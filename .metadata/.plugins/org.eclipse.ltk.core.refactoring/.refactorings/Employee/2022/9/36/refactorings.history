@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Employee.java&apos; to &apos;EmployeeComparatorSort/src/main/java/com.corejava8.learning&apos;&#x0D;&#x0A;- Original project: &apos;Employee&apos;&#x0D;&#x0A;- Destination element: &apos;EmployeeComparatorSort/src/main/java/com.corejava8.learning&apos;&#x0D;&#x0A;- Original element: &apos;com.ingenico.interview.Employee.java&apos;" description="Copy compilation unit" destination="=EmployeeComparatorSort/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.corejava8.learning" element1="/src&lt;com.ingenico.interview{Employee.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1662046322049" units="1" version="1.0"/>
+</session>

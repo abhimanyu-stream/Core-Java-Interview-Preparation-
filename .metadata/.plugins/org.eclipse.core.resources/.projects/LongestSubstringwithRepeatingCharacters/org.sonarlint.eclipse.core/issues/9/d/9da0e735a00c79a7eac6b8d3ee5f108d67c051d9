@@ -1,0 +1,13 @@
+
+Š
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯ùâúÿÿÿÿH¦RMINORZ
+CODE_SMELL
+Š
+java:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÀáÙÿÿÿÿÿH¨RMINORZ
+CODE_SMELL
+P
+java:S16590"Declare "j" on a separate line.(á”æåşÿÿÿÿHªRMINORZ
+CODE_SMELL
+`
+java:S2864%"4Iterate over the "entrySet" instead of the "keySet".(’®òH¬RMAJORZ
+CODE_SMELL

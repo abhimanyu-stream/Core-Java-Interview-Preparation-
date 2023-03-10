@@ -1,0 +1,35 @@
+package com.corejava8.learning;
+
+import java.util.ArrayList;
+import java.util.List;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+        
+        
+        List<Customer> listOfCustomer = new ArrayList<>();
+        listOfCustomer.add(new Customer(1L, "Java", 5000.00, OrderType.ONLINE));
+        listOfCustomer.add(new Customer(2L, "SpringBoot", 5000.00, OrderType.ONLINE));
+        listOfCustomer.add(new Customer(3L, "JPA", 5000.00, OrderType.ONLINE));	 
+        listOfCustomer.add(new Customer(4L, "Hibernate", 5000.00, OrderType.ONLINE));
+        listOfCustomer.add(new Customer(5L, "CoreJava8", 5000.00, OrderType.ONLINE));
+        
+        // sort by price
+        
+        //sort by name
+        
+        //filter by online
+        
+        //filter by offline
+        
+        
+        		
+    }
+}

@@ -1,0 +1,12 @@
+package com.corejava8.learning;
+
+import java.util.List;
+
+public class Company {
+	
+	private String name;
+	private Long regId;
+	private List<Employee> lisOfEmployee;
+	
+
+}

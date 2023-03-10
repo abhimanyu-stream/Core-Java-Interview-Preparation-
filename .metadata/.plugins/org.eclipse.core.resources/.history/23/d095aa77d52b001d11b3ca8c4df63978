@@ -1,0 +1,30 @@
+package com.corejava8.learning;
+
+public class Employee {
+	
+	// member variables
+    private int id;
+    private String name;
+    private int age;
+    private String designation;
+    
+    public Employee() {}
+    
+    // 4-arg parameterized constructor
+	public Employee(int id, String name, int age, String designation) {
+		super();
+		this.id = id;
+		this.name = name;
+		this.age = age;
+		this.designation = designation;
+	}
+ 
+    
+    
+   
+    
+    // getters and setters
+ 
+    // override toString()
+   
+}

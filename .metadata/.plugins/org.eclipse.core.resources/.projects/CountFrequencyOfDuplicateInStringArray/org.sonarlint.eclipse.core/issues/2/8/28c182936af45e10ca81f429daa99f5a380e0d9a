@@ -1,0 +1,19 @@
+
+°
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(—øË±HïRCRITICALZ
+CODE_SMELL
+µ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÜÙÌ£ùÿÿÿÿHñRCRITICALZ
+CODE_SMELL
+V
+java:S1197"*Move the array designators [] to the type.(„ÑÜËHóRMINORZ
+CODE_SMELL
+V
+java:S1197"*Move the array designators [] to the type.(¬·…‹HöRMINORZ
+CODE_SMELL
+\
+java:S1172"0Remove this unused method parameter "arrString".(—øË±HùRMAJORZ
+CODE_SMELL
+a
+java:S1172"0Remove this unused method parameter "arrString".(ÜÙÌ£ùÿÿÿÿHûRMAJORZ
+CODE_SMELL

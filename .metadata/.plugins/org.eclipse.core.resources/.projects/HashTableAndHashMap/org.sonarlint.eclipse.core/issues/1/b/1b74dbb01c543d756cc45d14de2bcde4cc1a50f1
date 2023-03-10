@@ -1,0 +1,9 @@
+
+Š
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºøú¨úÿÿÿÿHœRMINORZ
+CODE_SMELL
+W
+java:S1481&"&Remove this unused "o" local variable.(ÅÌá„þÿÿÿÿHŸRMINORZ
+CODE_SMELL
+ˆ
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ÇâÞáøÿÿÿÿHžRMAJORZBUG

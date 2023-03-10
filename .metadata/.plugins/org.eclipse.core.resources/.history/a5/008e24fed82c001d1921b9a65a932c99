@@ -1,0 +1,10 @@
+package com.corejava8.learning;
+
+public class Customer {
+	
+	private String name;
+	private double price;
+	private OrderType orderType;
+	
+
+}

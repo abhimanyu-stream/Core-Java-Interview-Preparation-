@@ -1,0 +1,13 @@
+
+R
+java:S1481"&Remove this unused "c" local variable.(¿·ü¡H∑RMINORZ
+CODE_SMELL
+V
+java:S1481"*Remove this unused "count" local variable.(¿·ü¡HπRMINORZ
+CODE_SMELL
+n
+java:S1659"BDeclare "count" and all following declarations on a separate line.(¿·ü¡HªRMINORZ
+CODE_SMELL
+R
+java:S1481"&Remove this unused "a" local variable.(¿·ü¡H≈RMINORZ
+CODE_SMELL

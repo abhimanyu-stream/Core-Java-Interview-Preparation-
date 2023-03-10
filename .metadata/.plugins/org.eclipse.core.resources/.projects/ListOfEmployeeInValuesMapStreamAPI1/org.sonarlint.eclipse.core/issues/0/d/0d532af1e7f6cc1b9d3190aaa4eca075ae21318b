@@ -1,0 +1,13 @@
+
+t
+java:S1612"<Replace this lambda with method reference 'Employee::getId'.(ñ¢‰åýÿÿÿÿ8»­á­°0H˜RMINORZ
+CODE_SMELL
+v
+java:S1612;">Replace this lambda with method reference 'Employee::getName'.(é¡ûèûÿÿÿÿ8«‡»Æ°0HšRMINORZ
+CODE_SMELL
+t
+java:S16127"<Replace this lambda with method reference 'Employee::getId'.(åçûœøÿÿÿÿ8ùóÄ¯°0HÑRMINORZ
+CODE_SMELL
+t
+java:S1612;"<Replace this lambda with method reference 'Employee::getId'.(é¡ûèûÿÿÿÿ8Ùöä¯°0HŒRMINORZ
+CODE_SMELL

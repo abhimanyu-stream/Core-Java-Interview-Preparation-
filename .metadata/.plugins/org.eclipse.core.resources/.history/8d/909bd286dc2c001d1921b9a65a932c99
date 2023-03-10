@@ -1,0 +1,39 @@
+package com.corejava8.learning;
+
+import java.util.ArrayList;
+import java.util.Comparator;
+import java.util.List;
+import java.util.stream.Collectors;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+        
+        
+        List<Order> listOfCustomer = new ArrayList<>();
+        listOfCustomer.add(new Order(1L, "Java", 5000.00, OrderType.ONLINE));
+        listOfCustomer.add(new Order(2L, "SpringBoot", 7000.00, OrderType.OFFLINE));
+        listOfCustomer.add(new Order(3L, "JPA", 8000.00, OrderType.ONLINE));	 
+        listOfCustomer.add(new Order(4L, "Hibernate", 10000.00, OrderType.OFFLINE));
+        listOfCustomer.add(new Order(5L, "CoreJava8", 654000.00, OrderType.ONLINE));
+        
+        // sort by price
+        
+        listOfCustomer.sort(Comparator.comparing(Order::getPrice));
+        
+        //sort by name
+        listOfCustomer.sort(Comparator.comparing(Order::getName));
+        //filter by online
+        List<Order> onlineListOfOrder = listOfCustomer.stream().filter(order -> order.getOrderType().equals(OrderType.ONLINE)).collect(Collectors.toList());
+        //filter by offline
+        
+        
+        		
+    }
+}

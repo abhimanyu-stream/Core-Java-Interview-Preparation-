@@ -1,0 +1,20 @@
+package com.corejava8.learning;
+
+import java.util.ArrayList;
+import java.util.List;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+        
+        
+        List<Customer> listOfCustomer = new ArrayList<>();
+        listOfCustomer.add(new Customer(1L, "Java", 5000, OrderType.ONLINE));
+    }
+}

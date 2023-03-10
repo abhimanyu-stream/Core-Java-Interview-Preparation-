@@ -1,0 +1,18 @@
+package com.corejava8.learning;
+
+public class Employee {
+	
+	private String name;
+	private Long id;
+	
+	public Employee() {}
+	public Employee(String name, Long id) {
+		super();
+		this.name = name;
+		this.id = id;
+	}
+	
+	
+	
+
+}
